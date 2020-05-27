@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to The Shooters Club
 
-You can use the [editor on GitHub](https://github.com/fabusola/theshootersclub/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This page is here as a biginner friendly understanding of how to trade with the help of being a shooter.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
